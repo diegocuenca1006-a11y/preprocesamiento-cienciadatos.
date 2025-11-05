@@ -1,0 +1,13 @@
+# Ignorar archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Ignorar configuración de VS Code
+.vscode/
+
+# Ignorar archivos de entorno local
+.env
+
+# Ignorar archivos temporales del sistema
+.DS_Store
+Thumbs.db
